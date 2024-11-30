@@ -1,1 +1,1 @@
-Loan Eligibility Prediction
+This project predicts loan eligibility based on various input factors such as income, credit score, and employment status. Using Logistic Regression, it analyzes and classifies applicants as eligible or ineligible for loans. The model is trained with real-world data to ensure accurate predictions, helping financial institutions make informed decisions.
